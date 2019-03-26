@@ -34,8 +34,8 @@ ss = items[2]
     3. Concatenate  with the string you read as input and print the result on a new line.
 <br/>    
 Too fun.
-```
 
+```
 # Sum of ints
 print(i + ii)
 
