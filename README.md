@@ -52,6 +52,6 @@ print(ss + s)
 * Good practice.
 
 
-# acknowledgments
+# Acknowledgments
 * [u0b34a0f6ae](https://stackoverflow.com/questions/1450393/how-do-you-read-from-stdin)
 * [HackerRank](https://www.hackerrank.com/)
